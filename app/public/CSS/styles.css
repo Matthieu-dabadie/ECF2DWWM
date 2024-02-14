@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(194, 229, 231, 0.699);
+}
+
+.etg {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.hr-add-etg {
+    width: 25%;
+    margin: 10px;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    font-size: 1.1em;
+}
